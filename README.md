@@ -1,2 +1,3 @@
 # year-in-views
-views in the year
+
+static site exploring data from everything I've watched in a given calendar year
