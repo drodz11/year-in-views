@@ -1,0 +1,9 @@
+# Site settings
+title: Year in Views
+author:
+  name: Dave Rodriguez
+  email: david.william.rodriguez@gmail.com
+description: "Data about Movies"
+
+# Build settings
+remote_theme: jekyll/minimal
