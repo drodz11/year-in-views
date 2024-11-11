@@ -6,4 +6,4 @@ author:
 description: "Data about Movies"
 
 # Build settings
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal
