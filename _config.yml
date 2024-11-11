@@ -1,9 +1,6 @@
 # Site settings
 title: Year in Views
-author:
-  name: ----
-  email: ----
 description: "Data about Movies"
 
 # Build settings
-remote_theme: pages-themes/minimal
+remote_theme: jekyll/minima
