@@ -2,5 +2,8 @@
 layout: home 
 ---
 
-# Data about Movies -- 2024 coming soon
+# Data about Movies
+To see viewing data about a specific year, navigate to it below.
+
+- **2024**
 
