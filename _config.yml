@@ -1,6 +1,6 @@
 # Site settings
-title: Year in Views | Movie Data
-# description: "Data about Movies"
+title: Year in Views 
+description: "Data re: Movies"
 
 # Build settings
 remote_theme: jekyll-theme-minimal
