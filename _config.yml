@@ -3,4 +3,4 @@ title: Year in Views
 description: "Data about Movies"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll-theme-minimal
