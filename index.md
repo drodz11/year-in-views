@@ -2,7 +2,7 @@
 layout: home 
 ---
 
-# Data about Movies
+# Data re: Movies
 [About this site](./about.html)
 
 To see data/analysis about a specific year, navigate to it using the following links.
